@@ -1,2 +1,1 @@
-Data structures and algorithm practice
-repo
+Data structure and algorithm practice 
