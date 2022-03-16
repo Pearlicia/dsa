@@ -13,7 +13,7 @@ function allLowerCaseLetters(str) {
         if (str[i] === str[i].toLowerCase()) {
             lowerCaseLetters.push(str[i]);
             
-            lower = lowerCaseLetters.toString();
+            console.log(lowerCaseLetters);
             lower = lowerCaseLetters.join('');
             
         }
@@ -22,7 +22,7 @@ function allLowerCaseLetters(str) {
     return lower;
   }
 
-console.log(allLowerCaseLetters("Decadev"));
+console.log(allLowerCaseLetters("DISeyi"));
 
 
 

@@ -1,4 +1,5 @@
-// Return the number of elements in an array arrOfNumbers, that are within the range of a number lowerRange, and another number upperRange, inclusive.
+// Return the number of elements in an array arrOfNumbers, 
+//that are within the range of a number lowerRange, and another number upperRange, inclusive.
 
 // Here is the complete specification for withinRange
 
