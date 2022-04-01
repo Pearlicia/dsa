@@ -12,6 +12,28 @@ function reverseString(str){
 
 console.log(reverseString("hello my name is Felicia"));
 
+
+var reverseStringg = function(s) {
+    var backwards = [];
+    var stringLength = s.length - 1;
+    
+    for (let i = stringLength; i >= 0; i--){
+        backwards.push(s[i]);
+    }
+    
+    return backwards;
+};
+console.log(reverseStringg(["h","e","l","l","o"]));
+
+
+var reverseStringgg = function(s) {
+    return s.reverse();
+}
+    
+console.log(reverseStringgg(["h","e","l","l","o"]));
+
+
+
  
 // Modern way
 function reverseString2(str){
