@@ -1,1 +1,2 @@
-Data structure and algorithm practice repo 
+Data structure and algorithm practice, 
+Leetcode, ztm, job assessments
